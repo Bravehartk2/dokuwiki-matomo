@@ -1,0 +1,7 @@
+base matomo
+author Marcel Lange
+email  info@ask-sheldon.con
+date 2018-05-19
+name DokuWiki plugin for Matomo
+desc Plugin for the new 3.x version of Matomo (formaly Piwik). It's the followup version of https://www.dokuwiki.org/plugin:piwik2
+url https://github.com/Bravehartk2/dokuwiki-matomo
