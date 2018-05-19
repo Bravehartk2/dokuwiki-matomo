@@ -12,7 +12,7 @@ description  | Plugin for the new 3.x version of Matomo (formaly Piwik), the ope
 author       | Bravehartk2 (Marcel Lange)
 email        | info@ask-sheldon.de
 type         | admin
-lastupdate   | 2018-10-15
+lastupdate   | 2018-05-19
 compatible   | binky, 2014-04-28, Detritus, Elenor of Tsort, Frusterick Manners, Greebo
 conflicts    | piwik, piwik2
 similar      | googleanalytics
@@ -43,12 +43,12 @@ This plugin requires the following additional components that must be installed 
 
   * MySQL Database for Matomo
   * PHP with mysql support (now PHP7 ready)
-  * an existing matomo installation that thePiwik trackingscript can send data to
+  * an existing matomo installation that the matomo trackingscript can send data to
 
 Install the plugin using the Plugin Manager (https://www.dokuwiki.org/plugin:plugin) and the download URL above, which points to latest version of the plugin. Refer to https://www.dokuwiki.org/plugin on how to install plugins manually.
 
 Configuration
 ===============
   - Go to Plugin Management and make sure “matomo” is enabled
-  - Configure the plugin in ***Admin -> Configuration Manager –> Plugin Settings –> Matomo*** (Values partly have to be taken from an existing matomo installation -> From ***Settings -> Tracking Code***, more information http://developer.piwik.org/api-reference/tracking-javascript)
+  - Configure the plugin in ***Admin -> Configuration Manager –> Plugin Settings –> Matomo*** (Values partly have to be taken from an existing matomo installation -> From ***Settings -> Tracking Code***, more information https://developer.matomo.org/api-reference/tracking-javascript)
   - Matomo plugin should now be enabled and you should see the trackingcode in the rendered html on wiki pages (f.e. with firebug)

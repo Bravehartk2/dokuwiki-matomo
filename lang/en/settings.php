@@ -9,6 +9,6 @@
  */
 $lang['track_admin_user'] = 'Track admin-user actions';
 $lang['track_user'] = 'Track users actions';
-$lang['js_tracking_code'] = 'Tracking code generated over the Piwik-backend';
+$lang['js_tracking_code'] = 'Tracking code generated over the Matomo-backend';
 $lang['img_tracking_code'] = 'Tracking code for image tracking';
 $lang['use_img_tracking'] = 'Use image tracking';
