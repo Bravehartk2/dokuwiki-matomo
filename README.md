@@ -1,3 +1,6 @@
+# Outdated!!
+Attention!: This plugin isn't is outdated and I will not maintain it anymore. Please feel free to fork and imporve it. 
+
 DokuWiki-matomo
 ===============
 
